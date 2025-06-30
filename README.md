@@ -1,2 +1,2 @@
-## COREVQA: A Crowd Observation and Visual Entailment Visual Question
+## COREVQA: A Crowd Observation and Reasoning Entailment Visual Question
 
