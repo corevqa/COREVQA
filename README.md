@@ -1,4 +1,4 @@
 ## COREVQA: A Crowd Observation and Reasoning Entailment Visual Question
 
-Demo Colab: [LINK](https://colab.research.google.com/drive/1VR_9S70pKASX4CqAcxK6apHUS1aopMjn?authuser=2#scrollTo=Q_A_falybRjF)  
+Demo Colab: [LINK](https://colab.research.google.com/drive/1SpuTta5tSzktiCo9xN4CtE9P1pmYV0ax)  
 T/F Statement Generation Colab: [LINK](https://colab.research.google.com/drive/15r2umyM2bldKTxjrDIR_Q11Yh5waGVNR#scrollTo=htPzjvrcd08S)
